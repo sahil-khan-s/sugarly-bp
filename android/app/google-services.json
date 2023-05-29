@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935804253196",
+    "project_id": "bpcheck-7c43a",
+    "storage_bucket": "bpcheck-7c43a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935804253196:android:9d1165f099761e8af72a29",
+        "android_client_info": {
+          "package_name": "com.fyp.bpcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935804253196-urviie9at0qslqfbact5s8qcg9vjlhsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb1_m1ECOtt42g6wllqTiaWCWaNZOHsEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935804253196-urviie9at0qslqfbact5s8qcg9vjlhsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
